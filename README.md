@@ -1,4 +1,6 @@
 # multipod_test
+ !!! You must have any kubernetes platform. (Docker, minikube etc.)
+ 
  Run this code ``` kubectl apply -f podmulticontainer.yaml ```
  
  Yaml file should be same folder and in the yaml file you should change the ```https://raw.githubusercontent.com/dmnlfrkn/multipod_test/main/index.html``` part to your address
